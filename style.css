@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right,pink ,rgb(142, 200, 218) 100%);
+    justify-content: center;
+   
+}
+h1{
+    color:purple;
+    text-align: center;
+}
+#blue{
+    color: cornsilk;
+   background-color:rgb(124, 124, 209);
+}
+#b{
+    
+        background: linear-gradient(rgb(34, 184, 230) , blue );
+        justify-content: center;
+        padding: 30px;
+        margin: 20px;
+    
+    
+}
